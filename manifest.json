@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "manifest_version": 2,
   "description": "This adds an activity filter menu to GitHub dashboard.",
-  "homepage_url": "http://github.com/muan/dashboard",
+  "homepage_url": "http://github.com/mustbearly/dashboard",
   "permissions": [
     "https://api.github.com/*"
   ],
@@ -16,4 +16,3 @@
       "js": ["dashboard.js"]
     }
   ]
-}
